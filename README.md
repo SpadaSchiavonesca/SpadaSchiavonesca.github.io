@@ -1,13 +1,10 @@
 # SpadaSchiavonesca.github.io
-# Hello, I'm CHANGEME
+# Hello, I'm Spada Schiavonesca
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my portfolio page! I'm a part-time student on a mission to become a cybersecurity engineer. Here, you'll find my projects as I journey towards this goal. Join me in shaping a secure digital future!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
