@@ -38,8 +38,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/Google_Chronicle-4285F4?style=for-the-badge&logo=google-chronicle&logoColor=white" alt="Google Chronicle Badge" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Chronicle-4285F4?style=for-the-badge&logo=google-chronicle&logoColor=white" alt="Google Chronicle Badge" />
 </div>
 
 ### Cloud    
