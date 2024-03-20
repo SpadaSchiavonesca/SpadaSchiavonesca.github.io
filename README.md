@@ -48,7 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### CLOUD    
 <div>
-     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     </div>
 
 ## Certifications
