@@ -50,6 +50,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     </div>
+    
+### PROGRAMMING    
+<div>
+     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </div>
+    
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
