@@ -45,6 +45,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud    
 <div>
      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
     </div>
     
 ### Programming    
