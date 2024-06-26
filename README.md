@@ -24,31 +24,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 
 ### OS
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* You can add CSS styles here to control the appearance of the logos */
-    header a {
-      text-decoration: none;
-      display: inline-block;
-      margin-right: 10px;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <a href="https://www.kali.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-    </a>
-    <a href="https://www.microsoft.com/en-us/windows/">
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
-    </a>
-  </header>
-</body>
-</html>
+# My Project Title
+
+Displays logos for Kali Linux and Windows.
+
+**Supported Operating Systems:**
+
+* [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+* [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
+
 
 ### Network
 <div>
