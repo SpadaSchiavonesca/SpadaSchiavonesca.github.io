@@ -25,7 +25,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### OS
 <div>
-<a href="https://www.kali.org/" target="_blank">
+<a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
 </a>
 
