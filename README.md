@@ -29,8 +29,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
 </a>
 
-
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-tcpdump-C70039?&style=for-the-badge&logo=tcpdump&logoColor=white" />
