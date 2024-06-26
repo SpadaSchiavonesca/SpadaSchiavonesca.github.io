@@ -38,29 +38,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Remove underline from links */
-    a {
-      text-decoration: none;
-    }
-    /* Optional: Add spacing between badges */
-    .badge-container {
-      display: flex;
-      gap: 10px; /* Adjust the gap as needed */
-    }
-  </style>
 </head>
 <body>
-  <div class="badge-container">
-    <a href="https://www.microsoft.com/en-us/windows/">
+  <div>
+    <a href="https://www.kali.org/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+    </a>
+    <a href="https://www.microsoft.com/en-us/windows/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
     </a>
-    <a href="https://www.kali.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-</a>
   </div>
 </body>
 </html>
+
 
 
 ### Network
