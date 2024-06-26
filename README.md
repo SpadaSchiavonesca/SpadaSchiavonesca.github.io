@@ -13,9 +13,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Attack Detection and Analyses with Tcpdump    |<a href="https://google.com">Detection Lab</a>|
+| Attack Detection and Analyses with Tcpdump    | Detection Lab|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab/blob/1a3d3bee103081f47118506571e6b286b8e1bb92/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
