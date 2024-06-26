@@ -46,11 +46,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 
-  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
   [![Elastic Cloud](https://img.shields.io/badge/elastic%20stack-005571?style=for-the-badge&logo=elasticcloud&logoColor=white)](https://www.elastic.co/elastic-stack)
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/Google_Chronicle-4285F4?style=for-the-badge&logo=google-chronicle&logoColor=white" alt="Google Chronicle Badge" />
-</div>
+
 
 ### Cloud    
 <div>
