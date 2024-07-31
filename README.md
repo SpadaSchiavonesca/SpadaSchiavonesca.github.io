@@ -67,6 +67,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 <img src="https://img.shields.io/badge/-ICS2%20CC-468145?&style=for-the-badge&logo=ICS2&logoColor=white" />
+<img src="https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff" />
 </div>
 
 ## Projects
