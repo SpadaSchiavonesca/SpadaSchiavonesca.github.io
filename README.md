@@ -56,7 +56,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> 
     </div>
     
-### Languages/DBMS    
+### Languages/Databases
 <div>
      <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57" />
     <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -67,7 +67,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 <img src="https://img.shields.io/badge/-ICS2%20CC-468145?&style=for-the-badge&logo=ICS2&logoColor=white" />
-<img src="https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff" />
+<img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 </div>
 
 ## Projects
