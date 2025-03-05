@@ -70,6 +70,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
     <img src="https://img.shields.io/badge/OneTrust-Responsible_AI-00A9CE?style=for-the-badge&logo=OneTrust&logoColor=white" />
+    <img src="https://img.shields.io/badge/APIsec-API_Security_for_PCI_Compliance-000000?style=for-the-badge&logo=APIsec&logoColor=white" />
 </div>
 
 ## Certifications
