@@ -1,6 +1,6 @@
 # SpadaSchiavonesca.github.io
 
-# Hello, I'm Spada Schiavonesca
+# Hello, I'm Nick aka Spada Schiavonesca
 
 <a href="https://www.linkedin.com/in/YOUR_ACTUAL_LINKEDIN_PROFILE/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -65,7 +65,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <div>
     <img src="https://img.shields.io/badge/OneTrust-Responsible_AI-00A9CE?style=for-the-badge&logo=OneTrust&logoColor=white" />
-    <img src="https://img.shields.io/badge/APIsec_University-API_Security_for_PCI_Compliance-0077B5?style=for-the-badge&logo=APIsec&logoColor=white" />
+    <img src="https://img.shields.io/badge/APIsec-API_Security_for_PCI_Compliance-0077B5?style=for-the-badge&logo=APIsec&logoColor=white" />
 </div>
 
 ## Certifications
