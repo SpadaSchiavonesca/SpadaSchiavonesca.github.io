@@ -62,8 +62,8 @@ My journey in computer science has fueled my passion for cybersecurity, and I am
     <img src="https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=Harvard&logoColor=white" alt="HarvardX"/>
     <img src="https://img.shields.io/badge/EdX-193A3E?style=for-the-badge&logo=edx&logoColor=white" alt="EdX"/>
     <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/>
-    <img src="https://img.shields.io/badge/Cisco-1F8ACF?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-    <img src="https://img.shields.io/badge/Fortinet-#EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet"/>
+    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+    <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet"/>
     <img src="https://img.shields.io/badge/IBM-0069B8?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
 </div>
 
