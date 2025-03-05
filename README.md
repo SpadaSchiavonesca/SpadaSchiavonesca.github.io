@@ -61,7 +61,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
      <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57" />
     <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </div>
-    
+
+### AI    
+<div>
+ <img src="https://img.shields.io/badge/OneTrust-Responsible_AI-00A9CE?style=for-the-badge&logo=OneTrust&logoColor=white />
+</div>    
 
 ## Certifications
 <div>
