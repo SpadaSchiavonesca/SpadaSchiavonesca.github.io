@@ -66,7 +66,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/-ICS2%20CC-468145?&style=for-the-badge&logo=ICS2&logoColor=white" />
+<img src="https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=Harvard&logoColor=white" />
 <img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />
 </div>
