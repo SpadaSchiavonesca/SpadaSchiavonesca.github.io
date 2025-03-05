@@ -38,15 +38,15 @@ With a strong foundation in **computer science and security**, I am eager to tra
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)  
 
 ### 🔐 **Endpoint Security & Threat Detection**  
-![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-5E5E5E?style=for-the-badge&logo=microsoftdefender&logoColor=white)  
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=velociraptor&logoColor=white)  
 
 ### 📊 **SIEM & Threat Intelligence**  
 [![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)](https://www.elastic.co/elastic-stack)  
 
 ### ☁️ **Cloud Platforms**  
-![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+[![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)  
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)  
 
 ### 🖥️ **Programming & Databases**  
 ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57)  
