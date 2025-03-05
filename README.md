@@ -14,13 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                           | Associated Project         |
 |------------------------------------------------|----------------------------|
-| Attack Detection and Analysis with Tcpdump     | [Detection Lab](#detection-lab)              |
 | SIEM Implementation and Log Analysis           | [Elastic SIEM Lab](https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab/blob/1a3d3bee103081f47118506571e6b286b8e1bb92/README.md) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](#detection-lab)              |
-| Security Automation with Shuffle SOAR          | [SOC Automation Project](#soc-automation-project)         |
-| Incident Response Planning and Execution       | [SOC Automation Project](#soc-automation-project)         |
-| Case Management with TheHive                   | [SOC Automation Project](#soc-automation-project)         |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Project](#soc-automation-project)         |
+
 
 ## Tools
 
@@ -83,8 +78,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 
-  - <a id="detection-lab"></a>**Detection Lab**: [**REPLACE WITH YOUR DETECTION LAB PROJECT LINK**](https://github.com/SpadaSchiavonesca/Detection-Lab-DUMMY_LINK) - A personal virtualized lab environment to practice attack detection using tcpdump, Wireshark, and Suricata. Demonstrated skills in network traffic analysis and rule creation.
-  - <a id="soc-automation-project"></a>**SOC Automation Project**: [**REPLACE WITH YOUR SOC AUTOMATION PROJECT LINK**](https://github.com/SpadaSchiavonesca/SOC-Automation-Project-DUMMY_LINK) - Developed a SOC automation workflow using Shuffle SOAR and TheHive for incident response, case management, and threat mitigation. Showcased skills in security automation, SOAR, and case management systems.
   - <a id="siem-implementation-log-analysis"></a>**SIEM Implementation and Log Analysis**: [Elastic SIEM Lab](https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab) - Deployed a fully functional Elastic Stack SIEM environment, configuring Elasticsearch, Logstash, and Kibana to ingest and analyze system logs. Developed custom dashboards and detection rules within Kibana to identify potential security threats, demonstrating practical experience with SIEM technologies and log-based security monitoring.
 
 -----
@@ -94,6 +87,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 I'm eager to connect with cybersecurity professionals and teams. Feel free to reach out!
 
   * [LinkedIn](https://www.linkedin.com/in/nenaduzelac/)
-  * Email: [**REPLACE WITH YOUR EMAIL ADDRESS**](mailto:YOUR_EMAIL@EXAMPLE.COM)
-
+  
 Looking forward to shaping a secure digital future together!
