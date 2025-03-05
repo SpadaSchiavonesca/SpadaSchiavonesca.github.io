@@ -10,14 +10,6 @@ Driven by a deep passion for cybersecurity, I am transitioning into this field t
 
 ---
 
-## 🛠️ Skills
-
-| **Skill**                                 | **Associated Project**                                                                                                      |
-|:----------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------- |
-| **SIEM Implementation & Log Analysis**   | [Elastic SIEM Lab](https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab/blob/1a3d3bee103081f47118506571e6b286b8e1bb92/README.md) |
-
----
-
 ## 🔧 Tools & Technologies
 
 ### 🖥️ **Operating Systems**  
