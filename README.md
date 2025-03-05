@@ -1,8 +1,8 @@
 # SpadaSchiavonesca.github.io
 
-# Hello, I'm Spada Schiavonesca
+# Hello, I'm Nenad Uzelac aka Spada Schiavonesca
 
-<a href="https://linkedin.com/YOUR_PROFILE"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com/YOUR_PROFILE](https://www.linkedin.com/in/nenaduzelac/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my portfolio page! I'm a part-time student on a mission to become a cybersecurity engineer. Here, you'll find my projects as I journey towards this goal. Join me in shaping a secure digital future!
 
