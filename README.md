@@ -45,7 +45,7 @@ My journey in computer science has fueled my passion for cybersecurity, and I am
 
 ### 🖥️ Web Browsers for Security & Privacy  
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)  
-![LibreWolf](https://img.shields.io/badge/LibreWolf-0E1E25?style=for-the-badge&logo=librewolf&logoColor=white)
+![LibreWolf](https://img.shields.io/badge/LibreWolf-00ACFF?style=for-the-badge&logo=librewolf&logoColor=white)
 
 ### 🖥️ Programming & Databases  
 ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57)  
