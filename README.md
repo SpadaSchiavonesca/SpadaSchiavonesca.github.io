@@ -31,41 +31,39 @@ With a strong foundation in **computer science and security**, I am eager to tra
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)  
 
 ### 🌐 **Networking & Security**  
-![tcpdump](https://img.shields.io/badge/-tcpdump-C70039?style=for-the-badge)  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge)  
-![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge)  
-![Zeek](https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge)  
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge)  
+![tcpdump](https://img.shields.io/badge/tcpdump-C70039?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)  
+![Zeek](https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=zeek&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)  
 
 ### 🔐 **Endpoint Security & Threat Detection**  
-![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-5E5E5E?style=for-the-badge)  
-![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?style=for-the-badge)  
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Velociraptor](https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=velociraptor&logoColor=white)  
 
 ### 📊 **SIEM & Threat Intelligence**  
-[![Elastic Stack](https://img.shields.io/badge/-Elastic%20Stack-005571?style=for-the-badge&logo=elastic-stack)](https://www.elastic.co/elastic-stack)  
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge)  
-![Google Chronicle](https://img.shields.io/badge/Google_Chronicle-4285F4?style=for-the-badge)  
+[![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)](https://www.elastic.co/elastic-stack)  
 
 ### ☁️ **Cloud Platforms**  
-![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge)  
+![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
 ### 🖥️ **Programming & Databases**  
-![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### 🤖 **AI & Security Automation**  
-![OneTrust Responsible AI](https://img.shields.io/badge/OneTrust-Responsible_AI-00A9CE?style=for-the-badge)  
-![APIsec](https://img.shields.io/badge/APIsec-API_Security_for_PCI_Compliance-0077B5?style=for-the-badge)  
+![OneTrust Responsible AI](https://img.shields.io/badge/OneTrust_Responsible_AI-00A9CE?style=for-the-badge&logo=onetrust&logoColor=white)  
+![APIsec](https://img.shields.io/badge/APIsec-API_Security_for_PCI_Compliance-0077B5?style=for-the-badge&logo=apigee&logoColor=white)  
 
 ---
 
 ## 📜 **Certifications**  
 
-![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge)  
-![HarvardX](https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge)  
-![EdX](https://img.shields.io/badge/EdX-193A3E?style=for-the-badge)  
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge)  
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)  
+![HarvardX](https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=harvard&logoColor=white)  
+![EdX](https://img.shields.io/badge/EdX-193A3E?style=for-the-badge&logo=edx&logoColor=white)  
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)  
 
 ---
 
