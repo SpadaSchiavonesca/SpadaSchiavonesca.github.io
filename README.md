@@ -34,7 +34,7 @@ My journey in computer science has fueled my passion for cybersecurity, and I am
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=velociraptor&logoColor=white)  
 ![Proton VPN](https://img.shields.io/badge/Proton_VPN-2F4F4F?style=for-the-badge&logo=protonvpn&logoColor=white)  
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)  
-![2FAS Badge](https://img.shields.io/badge/2FAS-EC1C24?logo=2fas&logoColor=fff&style=flat)
+![2FAS](https://img.shields.io/badge/2FAS-EC1C24?style=for-the-badge&logo=2fas&logoColor=white)
 
 ### 📊 SIEM & Threat Intelligence  
 [![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/elastic-stack)
