@@ -55,6 +55,13 @@ My journey in computer science has fueled my passion for cybersecurity, and I am
 ![OneTrust Responsible AI](https://img.shields.io/badge/OneTrust_Responsible_AI-00A9CE?style=for-the-badge&logo=onetrust&logoColor=white)  
 ![APIsec](https://img.shields.io/badge/APIsec-API_Security_for_PCI_Compliance-0077B5?style=for-the-badge&logo=apigee&logoColor=white)
 
+### Methodologies
+
+<div>
+    <img src="https://img.shields.io/badge/-Agile-5D5D5D?style=for-the-badge&logo=Agile&logoColor=white" alt="Agile"/>
+    <img src="https://img.shields.io/badge/-Scrum-0075B8?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"/>
+</div>
+
 ## Certifications
 
 <div>
