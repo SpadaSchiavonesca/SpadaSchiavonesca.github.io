@@ -21,7 +21,7 @@ My journey in computer science has fueled my passion for cybersecurity, and I am
 ### 🖥️ Operating Systems  
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)  
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 
 ### 🌐 Networking & Security  
 ![tcpdump](https://img.shields.io/badge/tcpdump-C70039?style=for-the-badge&logo=gnu-bash&logoColor=white)  
