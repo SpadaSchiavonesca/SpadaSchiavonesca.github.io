@@ -84,7 +84,7 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 ## 🎓 Certifications
 
 [<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">](https://www.coursera.org/)
-[<img src="https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=Harvard&logoColor=white" alt="HarvardX">](https://online-learning.harvard.edu/)
+[<img src="https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=Harvard&logoColor=white" alt="HarvardX">](https://www.vpal.harvard.edu/harvardx/)
 [<img src="https://img.shields.io/badge/EdX-193A3E?style=for-the-badge&logo=edx&logoColor=white" alt="EdX">](https://www.edx.org/)
 [<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">](https://www.udemy.com/)
 [<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">](https://www.cisco.com/)
