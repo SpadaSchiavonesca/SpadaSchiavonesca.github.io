@@ -61,13 +61,11 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 
 <a href="https://www.mozilla.org/firefox/" target="_blank"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox"></a>
 <a href="https://librewolf.net/" target="_blank"><img src="https://img.shields.io/badge/LibreWolf-00ACFF?style=for-the-badge&logo=librewolf&logoColor=white" alt="LibreWolf"></a>
-<a href="https://www.torproject.org/" target="_blank"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"></a>
 
 ### 💻 Programming & Databases
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57" alt="Python"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
 
 ### 🤖 AI & Security Automation
 
@@ -86,7 +84,7 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 ## 🎓 Certifications
 
 <a href="https://www.coursera.org/" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"></a>
-<a href="https://online-learning.harvard.edu/" target="_blank"><img src="https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=Harvard&logoColor=white" alt="HarvardX"></a>
+<a href="https://www.vpal.harvard.edu/harvardx/" target="_blank"><img src="https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=Harvard&logoColor=white" alt="HarvardX"></a>
 <a href="https://www.edx.org/" target="_blank"><img src="https://img.shields.io/badge/EdX-193A3E?style=for-the-badge&logo=edx&logoColor=white" alt="EdX"></a>
 <a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"></a>
 <a href="https://www.cisco.com/" target="_blank"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"></a>
