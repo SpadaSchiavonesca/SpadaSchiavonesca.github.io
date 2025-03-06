@@ -58,35 +58,28 @@ My journey in computer science has fueled my passion for cybersecurity, and I am
 ![OneTrust Responsible AI](https://img.shields.io/badge/OneTrust_Responsible_AI-00A9CE?style=for-the-badge&logo=onetrust&logoColor=white)  
 ![APIsec](https://img.shields.io/badge/APIsec-API_Security_for_PCI_Compliance-0077B5?style=for-the-badge&logo=apigee&logoColor=white)
 
-### Methodologies
+### 📌 Methodologies  
+[![Agile](https://img.shields.io/badge/-Agile-5D5D5D?style=for-the-badge&logo=agile&logoColor=white)](https://www.scrum.org/resources/what-agile)  
+[![Scrum](https://img.shields.io/badge/-Scrum-0075B8?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/)
 
-<div>
-    <img src="https://img.shields.io/badge/-Agile-5D5D5D?style=for-the-badge&logo=Agile&logoColor=white" alt="Agile"/>
-    <img src="https://img.shields.io/badge/-Scrum-0075B8?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"/>
-</div>
+### 🏆 Certifications  
+[![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/)  
+[![HarvardX](https://img.shields.io/badge/-HarvardX-A51C30?style=for-the-badge&logo=harvard&logoColor=white)](https://online-learning.harvard.edu/)  
+[![edX](https://img.shields.io/badge/-edX-193A3E?style=for-the-badge&logo=edx&logoColor=white)](https://www.edx.org/)  
+[![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)  
+[![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)  
+[![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com/)  
+[![IBM](https://img.shields.io/badge/-IBM-0069B8?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/)
 
-## Certifications
-
-<div>
-    <img src="https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"/>
-    <img src="https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=Harvard&logoColor=white" alt="HarvardX"/>
-    <img src="https://img.shields.io/badge/EdX-193A3E?style=for-the-badge&logo=edx&logoColor=white" alt="EdX"/>
-    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/>
-    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-    <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet"/>
-    <img src="https://img.shields.io/badge/IBM-0069B8?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
-</div>
-
-## Projects
-
+## Projects  
 -   **SIEM Implementation and Log Analysis**: [Elastic SIEM Lab](https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab) - Deployed a fully functional Elastic Stack SIEM environment, configuring Elasticsearch, Logstash, and Kibana to ingest and analyze system logs. Developed custom dashboards and detection rules within Kibana to identify potential security threats, demonstrating practical experience with SIEM technologies and log-based security monitoring.
 
 ---
 
-## Let's Connect!
+## Let's Connect!  
+I'm eager to connect with cybersecurity professionals and teams. Feel free to reach out!  
 
-I'm eager to connect with cybersecurity professionals and teams. Feel free to reach out!
-
-* [LinkedIn](https://www.linkedin.com/in/nenaduzelac/)
+* [LinkedIn](https://www.linkedin.com/in/nenaduzelac/)  
 
 Looking forward to shaping a secure digital future together!
+
