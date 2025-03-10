@@ -61,11 +61,13 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 
 <a href="https://www.mozilla.org/firefox/" target="_blank"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox"></a>
 <a href="https://librewolf.net/" target="_blank"><img src="https://img.shields.io/badge/LibreWolf-00ACFF?style=for-the-badge&logo=librewolf&logoColor=white" alt="LibreWolf"></a>
+<a href="https://www.torproject.org/" target="_blank"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"></a>
 
 ### 💻 Programming & Databases
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57" alt="Python"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
 
 ### 🤖 AI & Security Automation
 
@@ -82,7 +84,6 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 ---
 
 ## 🎓 Certifications
-
 <a href="https://www.coursera.org/" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"></a>
 <a href="https://www.vpal.harvard.edu/harvardx/" target="_blank"><img src="https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=Harvard&logoColor=white" alt="HarvardX"></a>
 <a href="https://www.edx.org/" target="_blank"><img src="https://img.shields.io/badge/EdX-193A3E?style=for-the-badge&logo=edx&logoColor=white" alt="EdX"></a>
@@ -99,8 +100,8 @@ Transitioning my strong foundation in **computer science** into a specialized ca
     *   Deployed a full **Elastic Stack SIEM environment**.  Developed custom dashboards for comprehensive **log-based security monitoring**.
 
 *   **Azure VM and Web Server Deployment**: <a href="https://github.com/SpadaSchiavonesca/Azure-VM-Web-Server" target="_blank">Azure VM Web Server</a>
-    *   Created a **virtual machine in Azure**. Configured and deployed a **web server** on the VM.  Validated Azure proficiency through [hands-on experience](https://coursera.org/verify/IWZG0IU9HQ90).
-      
+    *   Created a **[virtual machine in Azure](https://scribehow.com/shared/Creating_a_Virtual_Machine_in_Azure_Portal__fYuQoaltQpCPlWh0tOfCaw)**. Validated Azure proficiency through [hands-on experience](https://coursera.org/verify/IWZG0IU9HQ90).
+    *   Configured and deployed a **web server** on the VM.
 
 ---
 
