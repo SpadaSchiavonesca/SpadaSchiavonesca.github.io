@@ -99,8 +99,8 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 *   **SIEM Implementation and Log Analysis**:  <a href="https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab" target="_blank">Elastic SIEM Lab</a>
     *   Deployed a full **Elastic Stack SIEM environment**.  Developed custom dashboards for comprehensive **log-based security monitoring**.
 
-*   **Azure VM and Web Server Deployment**: <a href="https://scribehow.com/shared/Creating_a_Virtual_Machine_in_Azure_Portal__fYuQoaltQpCPlWh0tOfCaw" target="_blank">Azure VM Web Server</a>
-    *   Created a **virtual machine in Azure**. Validated Azure proficiency through [hands-on experience](https://coursera.org/verify/IWZG0IU9HQ90).
+*   **Azure VM and Web Server Deployment**: <a href="https://github.com/SpadaSchiavonesca/azure-vm-deployment/blob/main/README.md" target="_blank">Azure VM Web Server</a>
+    *   Created a **[virtual machine in Azure](https://scribehow.com/shared/Creating_a_Virtual_Machine_in_Azure_Portal__fYuQoaltQpCPlWh0tOfCaw)**. Validated Azure proficiency through [hands-on experience](https://coursera.org/verify/IWZG0IU9HQ90).
     *   Configured and deployed a **web server** on the VM.
 
 ---
