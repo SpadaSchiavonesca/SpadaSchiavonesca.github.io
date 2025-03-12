@@ -45,7 +45,7 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 
 ### 🔐 Endpoint Security & Privacy
 
-<a href="https://www.microsoft.com/en-us/security/business/threat-protection/endpoint-defender" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Defender-005ce6?style=for-the-badge&logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint"></a>
+<a href="https://www.microsoft.com/en-us/security/business/threat-protection/endpoint-defender" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Defender#0178d4?style=for-the-badge&logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint"></a>
 <a href="https://www.rapid7.com/products/velociraptor/" target="_blank"><img src="https://img.shields.io/badge/Velociraptor-4B275F?style=for-the-badge&logo=velociraptor&logoColor=white" alt="Velociraptor"></a>
 <a href="https://protonvpn.com/" target="_blank"><img src="https://img.shields.io/badge/Proton_VPN-2F4F4F?style=for-the-badge&logo=protonvpn&logoColor=white" alt="Proton VPN"></a>
 <a href="https://bitwarden.com/" target="_blank"><img src="https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden"></a>
