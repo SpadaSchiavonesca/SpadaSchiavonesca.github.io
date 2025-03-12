@@ -79,8 +79,8 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 
 ## 📌 Methodologies
 
-<a href="https://www.agilealliance.org/" target="_blank"><img src="https://img.shields.io/badge/Agile-5D5D5D?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"></a>
-<a href="https://www.scrum.org/" target="_blank"><img src="https://img.shields.io/badge/Scrum-0075B8?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"></a>
+<a href="https://www.agilealliance.org/" target="_blank"><img src="https://img.shields.io/badge/Agile-BC1339?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"></a>
+<a href="https://www.scrum.org/" target="_blank"><img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"></a>
 
 ---
 
