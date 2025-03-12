@@ -104,8 +104,8 @@ Transitioning my strong foundation in **computer science** into a specialized ca
     * Created a **[virtual machine in Azure](https://scribehow.com/shared/Creating_a_Virtual_Machine_in_Azure_Portal__fYuQoaltQpCPlWh0tOfCaw)**. Validated Azure proficiency through [hands-on experience](https://coursera.org/verify/IWZG0IU9HQ90).
     * Configured and deployed a **web server** on the VM.
 
-* **OverTheWire Bandit CTF Wargames**: <a href="https://github.com/SpadaSchiavonesca/CTF-OverTheWire-Bandit-Wargames" target="_blank">OverTheWire Bandit Wargames</a>
-    * Completed the OverTheWire Bandit wargame series (Levels 0-5), developing core cybersecurity skills: SSH, Linux command-line tools (`ls`, `cd`, `cat`, `find`, `grep`), file system navigation, and password authentication. Documented solutions and lessons learned.
+* **OverTheWire Bandit Capture The Flag Wargames**: <a href="https://github.com/SpadaSchiavonesca/CTF-OverTheWire-Bandit-Wargames" target="_blank">OverTheWire Bandit Wargames</a>
+    * Completed the OverTheWire CTF Bandit wargame series (Levels 0-5), developing core cybersecurity skills: SSH, Linux command-line tools (`ls`, `cd`, `cat`, `find`, `grep`), file system navigation, and password authentication. Documented solutions and lessons learned.
 
 ---
 
