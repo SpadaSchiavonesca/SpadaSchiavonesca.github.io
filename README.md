@@ -61,13 +61,11 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 
 <a href="https://www.mozilla.org/firefox/" target="_blank"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox"></a>
 <a href="https://librewolf.net/" target="_blank"><img src="https://img.shields.io/badge/LibreWolf-00ACFF?style=for-the-badge&logo=librewolf&logoColor=white" alt="LibreWolf"></a>
-<a href="https://www.torproject.org/" target="_blank"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"></a>
 
 ### 💻 Programming & Databases
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57" alt="Python"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
 
 ### 🤖 AI & Security Automation
 
