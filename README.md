@@ -32,7 +32,7 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows"></a>
 <a href="https://www.kernel.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
 <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"></a>
-<a href="https://mxlinux.org/" target="_blank"><img src="https://img.shields.io/badge/MX_Linux-#000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux"></a>
+<a href="https://mxlinux.org/" target="_blank"><img src="https://img.shields.io/badge/MX_Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux"></a>
 
 ### 🌐 Networking & Security
 
