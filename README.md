@@ -107,8 +107,8 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 * **OverTheWire Bandit Capture The Flag Wargames**: <a href="https://github.com/SpadaSchiavonesca/CTF-OverTheWire-Bandit-Wargames" target="_blank">OverTheWire Bandit Wargames</a>
     * Completed the OverTheWire CTF Bandit wargame series (Levels 0-5), developing core cybersecurity skills: SSH, Linux command-line tools (`ls`, `cd`, `cat`, `find`, `grep`), file system navigation, and password authentication. Documented solutions and lessons learned.
 
-* **Hangman Game (Python) - CS50's Introduction to Programming with Python**: <a href="https://github.com/SpadaSchiavonesca/Hangman-Game-in-Python" target="_blank">Hangman Game</a>
-    * Developed a classic **Hangman game using Python**, as part of Harvard University's CS50 Introduction to Programming with Python course ([Certificate](https://courses.edx.org/certificates/bc656353926d4dbab76a5a51ec5052bc)).
+* **Hangman Game (Python) - [Harvard University's CS50 Introduction to Programming with Python](https://courses.edx.org/certificates/bc656353926d4dbab76a5a51ec5052bc)**: <a href="https://github.com/SpadaSchiavonesca/Hangman-Game-in-Python" target="_blank">Hangman Game</a>
+    * Developed a classic **Hangman game using Python**, as part of Harvard University's CS50 Introduction to Programming with Python course.
     * Demonstrated core programming concepts including **variables, loops, conditional statements, and functions**.
     * Utilized **lists and dictionaries** for efficient data management.
     * Implemented **user input and output** for an interactive terminal-based experience.
