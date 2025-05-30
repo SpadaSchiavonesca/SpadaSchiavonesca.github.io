@@ -68,7 +68,7 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 
 ### 🤖 AI & Security Automation
 
-<a href="https://www.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_GenAI-0178d4?style=for-the-badge&logo=microsoftdefender&logoColor=white" alt="Microsoft GenAI"></a>
+<a href="https://www.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Gen_AI-0178d4?style=for-the-badge&logo=microsoftdefender&logoColor=white" alt="Microsoft Gen AI"></a>
 <a href="https://www.onetrust.com/" target="_blank"><img src="https://img.shields.io/badge/OneTrust_Responsible_AI-55A05E?style=for-the-badge&logo=onetrust&logoColor=white" alt="OneTrust Responsible AI"></a>
 <a href="https://apisec.ai/" target="_blank"><img src="https://img.shields.io/badge/APIsec-0077B5?style=for-the-badge&logo=apigee&logoColor=white" alt="APIsec"></a>
 
