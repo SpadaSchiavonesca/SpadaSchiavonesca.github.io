@@ -22,6 +22,7 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 *   **NIST Frameworks**
 *   **Governance, Risk Management, and Compliance (GRC)**
 *   **Cloud Cybersecurity**
+*   **Generative AI**
 
 ---
 
@@ -34,14 +35,10 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 <a href="https://mxlinux.org/" target="_blank"><img src="https://img.shields.io/badge/MX_Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux"></a>
 <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"></a>
 
-
 ### 🌐 Networking & Security
 
 <a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/tcpdump-C70039?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="tcpdump"></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"></a>
-<a href="https://suricata.io/" target="_blank"><img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"></a>
-<a href="https://zeek.org/" target="_blank"><img src="https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logo=zeek&logoColor=white" alt="Zeek"></a>
-<a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"></a>
 
 ### 🔐 Endpoint Security & Privacy
 
