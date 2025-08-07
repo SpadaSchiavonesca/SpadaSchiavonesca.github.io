@@ -55,7 +55,7 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 
 <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-008AD7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-00000?style=for-the-badge&logo=amazonaws&logoColor=orange" alt="AWS"></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=orange" alt="AWS"></a>
 
 ### 🌍 Web Browsers for Security & Privacy
 
