@@ -1,29 +1,25 @@
 # SpadaSchiavonesca.github.io
 
-## 👋 Hello, I'm Nenad Uzelac aka Spada Schiavonesca
-
+## 👋 Hello, I'm Nenad Uzelac
+### Operations & GRC Analyst | IT Risk, Compliance & Audit
 <a href="https://www.linkedin.com/in/nenaduzelac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-Welcome! I'm a dedicated part-time student on an exciting journey to become a **Cybersecurity Engineer**. This portfolio showcases my projects and progress as I work towards that goal. I'm passionate about building a more secure digital future.
+Welcome! I am a **GRC and IT Audit professional** with over 10 years of experience in regulated environments. This portfolio demonstrates my ability to translate real-world operations into audit-ready controls, defensible risk mitigation workflows, and clear compliance documentation.
 
 ---
 
 ## 🎯 Objective
-
-Transitioning my strong foundation in **computer science** into a specialized career in **cybersecurity**.
+Leveraging a decade of operational risk management and systems analysis to secure **GRC Analyst** or **IT Risk** roles. My focus is on bridging the gap between technical operations and regulatory frameworks (NIST, HIPAA, ISO) through disciplined documentation and systems thinking.
 
 ---
 
 ## 🔥 Key Focus Areas
-
-* **Threat & Vulnerability Management**
-* **Security Hardening**
-* **Incident Response**
-* **NIST Frameworks**
-* **Governance, Risk Management, and Compliance (GRC)**
-* **Cloud Cybersecurity**
-* **Local AI for Security (Privacy-First LLMs)**
-* **Generative AI**
+* **Governance, Risk & Compliance (GRC)** (NIST 800-53, HIPAA, ISO 27001)
+* **IT Risk Assessment & Audit Readiness**
+* **Cloud Security Governance** (AWS, OCI, GCP)
+* **Security Operations & Incident Response**
+* **Secure AI Implementation** (Local LLMs & Privacy Governance)
+* **Policy Development & Process Documentation**
 
 ---
 
