@@ -69,7 +69,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 ### 🤖 AI & Security Automation
 
 <a href="https://lmstudio.ai/" target="_blank"><img src="https://img.shields.io/badge/LM_Studio-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LM Studio"></a>
-<a href="https://huggingface.co/Qwen/Qwen2.5-14B-Instruct" target="_blank"><img src="https://img.shields.io/badge/Qwen_AI-100036?style=for-the-badge&logo=huggingface&logoColor=white" alt="Qwen AI"></a>
+<a href="https://huggingface.co/Qwen/Qwen3-14B" target="_blank"><img src="https://img.shields.io/badge/Qwen_3_14B-100036?style=for-the-badge&logo=huggingface&logoColor=white" alt="Qwen 3"></a>
 <a href="https://www.vulkan.org/" target="_blank"><img src="https://img.shields.io/badge/Vulkan_API-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan"></a>
 <a href="https://www.microsoft.com/en-us/ai/responsible-ai" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Gen_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Gen AI"></a>
 <a href="https://www.onetrust.com/solutions/ai-governance/" target="_blank"><img src="https://img.shields.io/badge/OneTrust_AI-00A550?style=for-the-badge&logo=onetrust&logoColor=white" alt="OneTrust AI"></a>
