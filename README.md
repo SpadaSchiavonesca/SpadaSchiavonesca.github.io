@@ -39,10 +39,10 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ### 🔐 Endpoint Security & Privacy
 
-<a href="https://www.microsoft.com/en-us/security/business/threat-protection/endpoint-defender" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Defender-0178d4?style=for-the-badge&logo=microsoftdefender&logoColor=white" alt="Microsoft Defender for Endpoint"></a>
-<a href="https://protonvpn.com/" target="_blank"><img src="https://img.shields.io/badge/Proton_VPN-2F4F4F?style=for-the-badge&logo=protonvpn&logoColor=white" alt="Proton VPN"></a>
+<a href="https://www.microsoft.com/en-us/security/business/threat-protection/endpoint-defender" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender"></a>
+<a href="https://protonvpn.com/" target="_blank"><img src="https://img.shields.io/badge/Proton_VPN-6D4AFF?style=for-the-badge&logo=protonvpn&logoColor=white" alt="Proton VPN"></a>
 <a href="https://bitwarden.com/" target="_blank"><img src="https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white" alt="Bitwarden"></a>
-<a href="https://2fas.com/" target="_blank"><img src="https://img.shields.io/badge/2FAS-EC1C24?style=for-the-badge&logo=2fas&logoColor=white" alt="2FAS"></a>
+<a href="https://2fas.com/" target="_blank"><img src="https://img.shields.io/badge/2FAS_Auth-E92D2D?style=for-the-badge&logo=authenticator&logoColor=white" alt="2FAS"></a>
 
 ### 📊 SIEM & Threat Intelligence
 
@@ -50,9 +50,9 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ### ☁️ Cloud Platforms
 
-<a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-008AD7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
+<a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
 
 ### 🌍 Web Browsers for Security & Privacy
 
