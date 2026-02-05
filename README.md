@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/nenaduzelac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-Welcome! I'm a dedicated part-time student on an exciting journey to become a **Cybersecurity Engineer**.  This portfolio showcases my projects and progress as I work towards that goal. I'm passionate about building a more secure digital future.
+Welcome! I'm a dedicated part-time student on an exciting journey to become a **Cybersecurity Engineer**. This portfolio showcases my projects and progress as I work towards that goal. I'm passionate about building a more secure digital future.
 
 ---
 
@@ -16,13 +16,14 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 
 ## 🔥 Key Focus Areas
 
-*   **Threat & Vulnerability Management**
-*   **Security Hardening**
-*   **Incident Response**
-*   **NIST Frameworks**
-*   **Governance, Risk Management, and Compliance (GRC)**
-*   **Cloud Cybersecurity**
-*   **Generative AI**
+* **Threat & Vulnerability Management**
+* **Security Hardening**
+* **Incident Response**
+* **NIST Frameworks**
+* **Governance, Risk Management, and Compliance (GRC)**
+* **Cloud Cybersecurity**
+* **Local AI for Security (Privacy-First LLMs)** <-- [New]
+* **Generative AI**
 
 ---
 
@@ -69,6 +70,9 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 
 ### 🤖 AI & Security Automation
 
+<img src="https://img.shields.io/badge/LM_Studio-0.4.1-blue?style=for-the-badge" alt="LM Studio">
+<img src="https://img.shields.io/badge/Local_LLM-Qwen3_14B-green?style=for-the-badge" alt="Qwen3">
+<img src="https://img.shields.io/badge/Vulkan_GPU-red?style=for-the-badge" alt="Vulkan">
 <a href="https://www.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Gen_AI-0178d4?style=for-the-badge&logo=microsoftdefender&logoColor=white" alt="Microsoft Gen AI"></a>
 <a href="https://www.onetrust.com/" target="_blank"><img src="https://img.shields.io/badge/OneTrust_Responsible_AI-55A05E?style=for-the-badge&logo=onetrust&logoColor=white" alt="OneTrust Responsible AI"></a>
 <a href="https://apisec.ai/" target="_blank"><img src="https://img.shields.io/badge/APIsec-0077B5?style=for-the-badge&logo=apigee&logoColor=white" alt="APIsec"></a>
@@ -94,6 +98,9 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 ---
 
 ## 🚀 Projects
+
+* **Featured: Offline AI Security Workstation**: <a href="https://github.com/SpadaSchiavonesca/offline-ai-security-workstation" target="_blank">Offline AI Security Workstation</a>
+    * Deployed a **privacy-first LLM environment** (Qwen3 14B) for sensitive GRC tasks. Demonstrates local automated SOC 2 analysis, NIST gap analysis, and risk modeling without third-party data exposure.
 
 * **SIEM Implementation and Log Analysis**: <a href="https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab" target="_blank">Elastic SIEM Lab</a>
     * Deployed a full **Elastic Stack SIEM environment**. Developed custom dashboards for comprehensive **log-based security monitoring**.
