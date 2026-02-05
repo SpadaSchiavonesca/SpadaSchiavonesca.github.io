@@ -34,7 +34,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ### 🌐 Networking & Security
 
-<a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/tcpdump-C70039?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="tcpdump"></a>
+<a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/tcpdump-C70039?style=for-the-badge&logo=gnu&logoColor=white" alt="tcpdump"></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"></a>
 
 ### 🔐 Endpoint Security & Privacy
