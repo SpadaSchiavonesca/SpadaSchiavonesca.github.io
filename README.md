@@ -99,8 +99,17 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 
 ## 🚀 Projects
 
-* **Featured: Offline AI Security Workstation**: <a href="https://github.com/SpadaSchiavonesca/offline-ai-security-workstation" target="_blank">Offline AI Security Workstation</a>
-    * Deployed a **privacy-first LLM environment** (Qwen3 14B) for sensitive GRC tasks. Demonstrates local automated SOC 2 analysis, NIST gap analysis, and risk modeling without third-party data exposure.
+### 🏆 Featured Project: Offline AI Security Workstation
+<a href="https://github.com/SpadaSchiavonesca/offline-ai-security-workstation"><img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status"></a>
+> **"Solving the AI Privacy Paradox for GRC"**
+* **The Goal:** Leverage GenAI reasoning for sensitive security tasks (SOC 2, NIST) without exposing data to third-party APIs.
+* **The Tech:** Configured **Qwen3 14B** on a local **AMD GPU (Vulkan)** backend using LM Studio.
+* **The Outcome:** A zero-trust, air-gapped workstation capable of generating **STRIDE threat models** and **Audit Remediation plans** locally.
+* 👉 **[View Repository](https://github.com/SpadaSchiavonesca/offline-ai-security-workstation)**
+
+---
+
+### 🛡️ Other Projects
 
 * **SIEM Implementation and Log Analysis**: <a href="https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab" target="_blank">Elastic SIEM Lab</a>
     * Deployed a full **Elastic Stack SIEM environment**. Developed custom dashboards for comprehensive **log-based security monitoring**.
@@ -110,14 +119,10 @@ Transitioning my strong foundation in **computer science** into a specialized ca
     * Configured and deployed a **web server** on the VM.
 
 * **OverTheWire Bandit Capture The Flag Wargames**: <a href="https://github.com/SpadaSchiavonesca/CTF-OverTheWire-Bandit-Wargames" target="_blank">OverTheWire Bandit Wargames</a>
-    * Completed the OverTheWire CTF Bandit wargame series (Levels 0-5), developing core cybersecurity skills: SSH, Linux command-line tools (`ls`, `cd`, `cat`, `find`, `grep`), file system navigation, and password authentication. Documented solutions and lessons learned.
+    * Completed the OverTheWire CTF Bandit wargame series (Levels 0-5), developing core cybersecurity skills: SSH, Linux command-line tools, file system navigation, and password authentication.
 
-* **Hangman Game (Python) - [Harvard University's CS50 Introduction to Programming with Python](https://courses.edx.org/certificates/bc656353926d4dbab76a5a51ec5052bc)**:
-    * Developed a classic **[Hangman game using Python](https://github.com/SpadaSchiavonesca/Hangman-Game-in-Python)**
-    * Demonstrated core programming concepts including **variables, loops, conditional statements, and functions**.
-    * Utilized **lists and dictionaries** for efficient data management.
-    * Implemented **user input and output** for an interactive terminal-based experience.
-    * Included **basic error handling** to improve the robustness of the game.
+* **Hangman Game (Python)**: <a href="https://github.com/SpadaSchiavonesca/Hangman-Game-in-Python" target="_blank">View Code</a>
+    * Developed a classic game demonstrating core Python concepts (loops, logic, error handling) as part of Harvard's CS50.
 
 ---
 
