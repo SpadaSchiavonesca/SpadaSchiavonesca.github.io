@@ -22,7 +22,7 @@ Transitioning my strong foundation in **computer science** into a specialized ca
 * **NIST Frameworks**
 * **Governance, Risk Management, and Compliance (GRC)**
 * **Cloud Cybersecurity**
-* **Local AI for Security (Privacy-First LLMs)** <-- [New]
+* **Local AI for Security (Privacy-First LLMs)**
 * **Generative AI**
 
 ---
