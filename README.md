@@ -106,7 +106,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 * 👉 **[View Repository](https://github.com/SpadaSchiavonesca/offline-ai-security-workstation)**
 
 * ### 🏆 Featured Project: Bluetooth GRC Compliance & Audit Module
-<a href="https://github.com/SpadaSchiavonesca/btrpa-scan"><img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status"></a>
+<a href="https://github.com/SpadaSchiavonesca/btrpa-scan"><img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status"></a>
 > **"Operationalizing Raw Security Data into Audit-Ready Intelligence"**
 * **The Goal:** Bridge the gap between technical Bluetooth scans and executive-level risk reporting for compliance teams.
 * **The Tech:** Python-based risk scoring engine implementing **NIST SP 800-121 Rev 2** framework with RSSI proximity analysis and threat signature detection.
