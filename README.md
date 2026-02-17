@@ -1,27 +1,35 @@
 # SpadaSchiavonesca.github.io
 
 ## 👋 Hello, I'm Nenad Uzelac
-### Operations & GRC Analyst | IT Risk, Compliance & Audit
+### Operations & GRC Analyst | IT Risk, Compliance & Audit | InfraGard Member
 <a href="https://www.linkedin.com/in/nenaduzelac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-Welcome! I am a **GRC and IT Audit professional** with over 10 years of experience in regulated environments. This portfolio demonstrates my ability to translate real-world operations into audit-ready controls, defensible risk mitigation workflows, and clear compliance documentation.
+Welcome! I am a **GRC and IT Audit professional** with over 10 years of experience operating in regulated, high-accountability environments. This portfolio demonstrates my ability to translate real-world operations into audit-ready controls, defensible risk mitigation workflows, and clear compliance documentation.
 
 ---
 
 ## 🎯 Objective
-Leveraging a decade of operational risk management and systems analysis to secure **GRC Analyst** or **IT Risk** roles. My focus is on bridging the gap between technical operations and regulatory frameworks (NIST, HIPAA, ISO) through disciplined documentation and systems thinking.
+Leveraging a decade of operational risk management and systems analysis to secure **GRC Analyst** or **IT Risk** roles. My focus is on bridging the gap between technical operations and regulatory frameworks (**NIST, HIPAA, ISO**) through disciplined documentation and systems thinking.
+
+---
+
+## 🛡️ Professional Impact
+* **Regulated Asset Management:** Maintained continuous audit readiness for operations managing **$1M+ in regulated assets**.
+* **Operational Resilience:** Reduced recurring disruptions by **15% year-over-year** through structured Root Cause Analysis (RCA).
+* **Audit Success:** Translated regulatory mandates into repeatable evidence artifacts, maintaining **zero-deficiency audits**.
+* **Data Integrity:** Managed sensitive customer PII with strict adherence to organizational privacy and security standards.
 
 ---
 
 ## 🔥 Key Focus Areas
-* **Governance, Risk & Compliance (GRC)** (NIST 800-53, HIPAA, ISO 27001)
-* **IT Risk Assessment & Audit Readiness**
-* **Cloud Security Governance** (AWS, OCI, GCP)
-* **Security Operations & Incident Response**
-* **Secure AI Implementation** (Local LLMs & Privacy Governance)
-* **Policy Development & Process Documentation**
+* **Governance, Risk & Compliance (GRC):** NIST 800-53, HIPAA, and ISO 27001 control implementation.
+* **IT Risk & Audit Readiness:** Internal/External audit support and control mapping.
+* **Cloud Security Governance:** Risk assessment and governance for **AWS, OCI, and GCP**.
+* **Secure AI Implementation:** Specialized focus on **Local LLM governance** and privacy-first security workflows.
+* **Policy & Documentation:** Development of data privacy policies, PII protection standards, and SOPs.
 
 ---
+
 
 ## 🛠️ Tools & Technologies
 
