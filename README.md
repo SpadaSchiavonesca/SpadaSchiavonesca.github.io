@@ -115,24 +115,34 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ---
 
-### 🛡️ Other Projects
+### 🛡️ GRC & Security Engineering
 
-* **Bluetooth Risk Scoring Engine**: <a href="https://github.com/SpadaSchiavonesca/btrpa-scan" target="_blank">View Repository</a>
-    * Python learning project practicing **NIST framework implementation**, automated report generation, and JSONL data parsing for security assessments.
+#### **Bluetooth GRC Scoring Engine (NIST SP 800-121)** ![Status](https://img.shields.io/badge/Focus-Compliance%20Automation-green?style=flat-square)
+* **Description:** Enhanced a specialized scanning tool with a risk-scoring engine aligned with **NIST SP 800-121 Rev 2**. 
+* **Impact:** Developed automated reporting logic to translate raw signal telemetry into actionable audit findings for regulated environments.
+* 👉 **[View Repository](https://github.com/SpadaSchiavonesca/btrpa-scan)**
 
-* **SIEM Implementation and Log Analysis**: <a href="https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab" target="_blank">Elastic SIEM Lab</a>
-    * Deployed a full **Elastic Stack SIEM environment**. Developed custom dashboards for comprehensive **log-based security monitoring**.
+#### **SIEM Implementation & Log Analysis**
+![Status](https://img.shields.io/badge/Focus-Detection%20%26%20Response-red?style=flat-square)
+* **Description:** Deployed a full **Elastic Stack SIEM environment** to practice operational security monitoring.
+* **Impact:** Developed custom dashboards for comprehensive, log-based security monitoring and threat detection.
+* 👉 **[View Repository](https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab)**
 
-* **Azure VM and Web Server Deployment**: <a href="https://github.com/SpadaSchiavonesca/azure-vm-deployment/blob/main/README.md" target="_blank">Azure VM Web Server</a>
-    * Created a **[virtual machine in Azure](https://scribehow.com/shared/Creating_a_Virtual_Machine_in_Azure_Portal__fYuQoaltQpCPlWh0tOfCaw)**. Validated Azure proficiency through [hands-on experience](https://coursera.org/verify/IWZG0IU9HQ90).
-    * Configured and deployed a **web server** on the VM.
+#### **Azure Cloud Governance & Web Deployment**
+![Status](https://img.shields.io/badge/Focus-Cloud%20Governance-blue?style=flat-square)
+* **Description:** Provisioned and configured an Azure VM and web server, focusing on secure cloud infrastructure.
+* **Impact:** Validated proficiency through hands-on deployment and created a **Standard Operating Procedure (SOP)** for the process.
+* 👉 **[View Project SOP](https://scribehow.com/shared/Creating_a_Virtual_Machine_in_Azure_Portal__fYuQoaltQpCPlWh0tOfCaw)** | **[View Repository](https://github.com/SpadaSchiavonesca/azure-vm-deployment/blob/main/README.md)**
+
+---
+
+### 🎓 Continuous Learning & Foundations
 
 * **OverTheWire Bandit Capture The Flag Wargames**: <a href="https://github.com/SpadaSchiavonesca/CTF-OverTheWire-Bandit-Wargames" target="_blank">OverTheWire Bandit Wargames</a>
     * Completed the OverTheWire CTF Bandit wargame series (Levels 0-5), developing core cybersecurity skills: SSH, Linux command-line tools, file system navigation, and password authentication.
 
 * **Hangman Game (Python)**: <a href="https://github.com/SpadaSchiavonesca/Hangman-Game-in-Python" target="_blank">View Code</a>
     * Developed a classic game demonstrating core Python concepts (loops, logic, error handling) as part of Harvard's CS50.
-
 ---
 
 ## 🤝 Let's Connect!
