@@ -117,7 +117,8 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ### 🛡️ GRC & Security Engineering
 
-#### **Bluetooth GRC Scoring Engine (NIST SP 800-121)** ![Status](https://img.shields.io/badge/Focus-Compliance%20Automation-green?style=flat-square)
+#### **Bluetooth GRC Scoring Engine (NIST SP 800-121)** 
+![Status](https://img.shields.io/badge/Focus-Compliance%20Automation-green?style=flat-square)
 * **Description:** Enhanced a specialized scanning tool with a risk-scoring engine aligned with **NIST SP 800-121 Rev 2**. 
 * **Impact:** Developed automated reporting logic to translate raw signal telemetry into actionable audit findings for regulated environments.
 * 👉 **[View Repository](https://github.com/SpadaSchiavonesca/btrpa-scan)**
