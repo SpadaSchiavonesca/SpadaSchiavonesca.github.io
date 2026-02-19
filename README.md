@@ -106,7 +106,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 ## 🚀 Projects
 
 ### 🏆 Featured Project: Offline AI Security Workstation
-<a href="https://github.com/SpadaSchiavonesca/offline-ai-security-workstation"><img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status"></a>
+![Focus](https://img.shields.io/badge/Focus-AI%20Governance%20%26%20Privacy-blueviolet?style=flat-square)
 > **"Solving the AI Privacy Paradox for GRC"**
 * **The Goal:** Leverage GenAI reasoning for sensitive security tasks (SOC 2, NIST) without exposing data to third-party APIs.
 * **The Tech:** Configured **Qwen3 14B** on a local **AMD GPU (Vulkan)** backend using LM Studio.
@@ -118,29 +118,29 @@ Leveraging a decade of operational risk management and systems analysis to secur
 ### 🛡️ GRC & Security Engineering
 
 #### **Targeted Phishing Investigation & Control Analysis (NIST SP 800-61)** 
-![Status](https://img.shields.io/badge/Focus-Incident%20Response-orange?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Incident%20Response-orange?style=flat-square)
 * **Description:** Conducted an end-to-end forensic analysis of a sophisticated identity-mirroring phishing campaign.
 * **Impact:** Mapped adversarial tactics to **MITRE ATT&CK®** and performed a **NIST SP 800-30** qualitative risk assessment to identify technical control failures.
 * 👉 **[View Repository](https://github.com/SpadaSchiavonesca/incident-response-phishing-analysis)**
 
 #### **Bluetooth GRC Scoring Engine (NIST SP 800-121)** 
-![Status](https://img.shields.io/badge/Focus-Compliance%20Automation-green?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Compliance%20Automation-green?style=flat-square)
 * **Description:** Enhanced a specialized scanning tool with a risk-scoring engine aligned with **NIST SP 800-121 Rev 2**. 
 * **Impact:** Developed automated reporting logic to translate raw signal telemetry into actionable audit findings for regulated environments.
 * 👉 **[View Repository](https://github.com/SpadaSchiavonesca/btrpa-scan)**
 
 #### **SIEM Implementation & Log Analysis**
-![Status](https://img.shields.io/badge/Focus-Detection%20%26%20Response-red?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Detection%20%26%20Response-red?style=flat-square)
 * **Description:** Deployed a full **Elastic Stack SIEM environment** to practice operational security monitoring.
 * **Impact:** Developed custom dashboards for comprehensive, log-based security monitoring and threat detection.
 * 👉 **[View Repository](https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab)**
 
 #### **Azure Cloud Governance & Web Deployment**
-![Status](https://img.shields.io/badge/Focus-Cloud%20Governance-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Cloud%20Governance-blue?style=flat-square)
 * **Description:** Provisioned and configured an Azure VM and web server, focusing on secure cloud infrastructure.
 * **Impact:** Validated proficiency through hands-on deployment and created a **Standard Operating Procedure (SOP)** for the process.
 * 👉 **[View Project SOP](https://scribehow.com/shared/Creating_a_Virtual_Machine_in_Azure_Portal__fYuQoaltQpCPlWh0tOfCaw)** | **[View Repository](https://github.com/SpadaSchiavonesca/azure-vm-deployment/blob/main/README.md)**
-
+  
 ---
 
 ### 🎓 Continuous Learning & Foundations
