@@ -117,7 +117,8 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ### 🛡️ GRC & Security Engineering
 
-#### **Targeted Phishing Investigation & Control Analysis (NIST SP 800-61)** ![Status](https://img.shields.io/badge/Focus-Incident%20Response-orange?style=flat-square)
+#### **Targeted Phishing Investigation & Control Analysis (NIST SP 800-61)** 
+![Status](https://img.shields.io/badge/Focus-Incident%20Response-orange?style=flat-square)
 * **Description:** Conducted an end-to-end forensic analysis of a sophisticated identity-mirroring phishing campaign.
 * **Impact:** Mapped adversarial tactics to **MITRE ATT&CK®** and performed a **NIST SP 800-30** qualitative risk assessment to identify technical control failures.
 * 👉 **[View Repository](https://github.com/SpadaSchiavonesca/incident-response-phishing-analysis)**
