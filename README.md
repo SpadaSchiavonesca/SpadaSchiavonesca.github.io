@@ -44,6 +44,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 <a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/tcpdump-C70039?style=for-the-badge&logo=gnu&logoColor=white" alt="tcpdump"></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"></a>
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"></a>
 
 ### 🔐 Endpoint Security & Privacy
 
@@ -61,6 +62,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"></a>
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></a>
+<a href="[https://www.hetzner.com/" target="_blank"><img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner"></a>
 
 ### 🌍 Web Browsers for Security & Privacy
 
