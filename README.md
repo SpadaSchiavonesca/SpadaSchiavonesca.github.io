@@ -46,6 +46,9 @@ Leveraging a decade of operational risk management and systems analysis to secur
 <a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/tcpdump-C70039?style=for-the-badge&logo=gnu&logoColor=white" alt="tcpdump"></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"></a>
+<a href="https://openlitespeed.org/" target="_blank"><img src="https://img.shields.io/badge/OpenLiteSpeed_WAF-62B54D?style=for-the-badge&logo=lightspeed&logoColor=white" alt="OpenLiteSpeed"></a>
+<a href="https://www.fail2ban.org/" target="_blank"><img src="https://img.shields.io/badge/Fail2ban_IPS-9F1111?style=for-the-badge&logo=linux-foundation&logoColor=white" alt="Fail2ban"></a>
+<a href="https://launchpad.net/ufw" target="_blank"><img src="https://img.shields.io/badge/UFW-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="UFW"></a>
 
 ### 🔐 Endpoint Security & Privacy
 
