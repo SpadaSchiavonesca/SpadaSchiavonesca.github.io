@@ -8,12 +8,12 @@ Welcome! I am a **GRC and IT Audit professional** with over 10 years of experien
 
 ---
 
-## 🎯 Objective
+### 🎯 Objective
 Leveraging a decade of operational risk management and systems analysis to secure **GRC Analyst** or **IT Risk** roles. My focus is on bridging the gap between technical operations and regulatory frameworks (**NIST, HIPAA, ISO**) through disciplined documentation and systems thinking.
 
 ---
 
-## 🛡️ Professional Impact
+### 🛡️ Professional Impact
 * **Regulated Asset Management:** Maintained continuous audit readiness for operations managing **$1M+ in regulated assets**.
 * **Operational Resilience:** Reduced recurring disruptions by **15% year-over-year** through structured Root Cause Analysis (RCA).
 * **Audit Success:** Translated regulatory mandates into repeatable evidence artifacts, maintaining **zero-deficiency audits**.
@@ -21,7 +21,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ---
 
-## 🔥 Key Focus Areas
+### 🔥 Key Focus Areas
 * **Governance, Risk & Compliance (GRC):** NIST 800-53, HIPAA, and ISO 27001 control implementation.
 * **IT Risk & Audit Readiness:** Internal/External audit support and control mapping.
 * **Cloud Security Governance:** Risk assessment and governance for **AWS, OCI, GCP, & Hetzner**.
@@ -32,7 +32,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 ---
 
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 ### 🖥️ Operating Systems
 
@@ -92,14 +92,14 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ---
 
-## 📌 Methodologies
+### 📌 Methodologies
 
 <a href="https://www.agilealliance.org/" target="_blank"><img src="https://img.shields.io/badge/Agile-2596be?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"></a>
 <a href="https://www.scrum.org/" target="_blank"><img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"></a>
 
 ---
 
-## 🎓 Certifications
+### 🎓 Certifications
 <a href="https://www.coursera.org/" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"></a>
 <a href="https://www.vpal.harvard.edu/harvardx/" target="_blank"><img src="https://img.shields.io/badge/HarvardX-A51C30?style=for-the-badge&logo=Harvard&logoColor=white" alt="HarvardX"></a>
 <a href="https://www.edx.org/" target="_blank"><img src="https://img.shields.io/badge/EdX-193A3E?style=for-the-badge&logo=edx&logoColor=white" alt="EdX"></a>
@@ -110,7 +110,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
 #### **Hardened CMS Infrastructure & Multi-Layered Perimeter Defense**
 ![Focus](https://img.shields.io/badge/Focus-Infrastructure%20Hardening-blue?style=flat-square)
@@ -172,7 +172,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
     * Developed a classic game demonstrating core Python concepts (loops, logic, error handling) as part of Harvard's CS50.
 ---
 
-## 🤝 Let's Connect!
+### 🤝 Let's Connect!
 
 I'm enthusiastic about connecting with cybersecurity professionals, teams, and potential collaborators.  Reach out!
 
