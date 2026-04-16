@@ -123,7 +123,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
     * **Intrusion Prevention:** Configured **Fail2ban** jails to monitor system logs and automatically null-route malicious actors at the network layer.
     * **Vulnerability Management:** Leveraged **Ubuntu Pro** to ensure continuous kernel livepatching and compliance with long-term security maintenance standards.
 
-### **Offline AI Security Workstation**
+#### **Offline AI Security Workstation**
 ![Focus](https://img.shields.io/badge/Focus-AI%20Governance%20%26%20Privacy-blueviolet?style=flat-square)
 > **"Solving the AI Privacy Paradox for GRC"**
 * **The Goal:** Leverage GenAI reasoning for sensitive security tasks (SOC 2, NIST) without exposing data to third-party APIs.
