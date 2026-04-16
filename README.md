@@ -1,7 +1,7 @@
 # SpadaSchiavonesca.github.io
 
 ## 👋 Hello, I'm Nenad Uzelac
-### Operations & GRC Analyst | IT Risk, Compliance & Audit | InfraGard Member
+### Operations & System Analyst | GRC, IT Risk, Compliance & Audit | InfraGard Member
 <a href="https://www.linkedin.com/in/nenaduzelac/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 Welcome! I am a **GRC and IT Audit professional** with over 10 years of experience operating in regulated, high-accountability environments. This portfolio demonstrates my ability to translate real-world operations into audit-ready controls, defensible risk mitigation workflows, and clear compliance documentation.
