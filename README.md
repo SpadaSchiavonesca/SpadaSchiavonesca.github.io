@@ -110,6 +110,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 #### **Hardened CMS Infrastructure & Multi-Layered Perimeter Defense**
 ![Focus](https://img.shields.io/badge/Focus-Infrastructure%20Hardening-blue?style=flat-square)
+> **"Securing Public-Facing Assets through Defense-in-Depth"**
 * **The Goal:** Deploy a high-performance WordPress environment on a **Hetzner VPS** using a "Defense-in-Depth" architecture to satisfy strict availability and integrity requirements.
 * **The Stack:** Hardened **Ubuntu Pro** (LTS security patching), **OpenLiteSpeed** with Native WAF, and **Fail2ban** for automated threat mitigation.
 * **Security Controls implemented:**
@@ -118,7 +119,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
     * **Intrusion Prevention:** Configured **Fail2ban** jails to monitor system logs and automatically null-route malicious actors at the network layer.
     * **Vulnerability Management:** Leveraged **Ubuntu Pro** to ensure continuous kernel livepatching and compliance with long-term security maintenance standards.
 
-### Offline AI Security Workstation
+### **Offline AI Security Workstation**
 ![Focus](https://img.shields.io/badge/Focus-AI%20Governance%20%26%20Privacy-blueviolet?style=flat-square)
 > **"Solving the AI Privacy Paradox for GRC"**
 * **The Goal:** Leverage GenAI reasoning for sensitive security tasks (SOC 2, NIST) without exposing data to third-party APIs.
@@ -130,24 +131,28 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 #### **Targeted Phishing Investigation & Control Analysis (NIST SP 800-61)** 
 ![Focus](https://img.shields.io/badge/Focus-Incident%20Response-orange?style=flat-square)
+> **"Mapping Adversarial Tactics to Defensible Risk Controls"**
 * **Description:** Conducted an end-to-end forensic analysis of a sophisticated identity-mirroring phishing campaign.
 * **Impact:** Mapped adversarial tactics to **MITRE ATT&CK®** and performed a **NIST SP 800-30** qualitative risk assessment to identify technical control failures.
 * 👉 **[View Repository](https://github.com/SpadaSchiavonesca/incident-response-phishing-analysis)**
 
 #### **Bluetooth GRC Scoring Engine (NIST SP 800-121)** 
 ![Focus](https://img.shields.io/badge/Focus-Compliance%20Automation-green?style=flat-square)
+> **"Operationalizing Wireless Security through Automated Compliance Scoring"**
 * **Description:** Enhanced a specialized scanning tool with a risk-scoring engine aligned with **NIST SP 800-121 Rev 2**. 
 * **Impact:** Developed automated reporting logic to translate raw signal telemetry into actionable audit findings for regulated environments.
 * 👉 **[View Repository](https://github.com/SpadaSchiavonesca/btrpa-scan)**
 
 #### **SIEM Implementation & Log Analysis**
 ![Focus](https://img.shields.io/badge/Focus-Detection%20%26%20Response-red?style=flat-square)
+> **"Transforming Raw System Telemetry into Actionable Security Intelligence"**
 * **Description:** Deployed a full **Elastic Stack SIEM environment** to practice operational security monitoring.
 * **Impact:** Developed custom dashboards for comprehensive, log-based security monitoring and threat detection.
 * 👉 **[View Repository](https://github.com/SpadaSchiavonesca/Elastic-SIEM-Lab)**
 
 #### **Azure Cloud Governance & Web Deployment**
 ![Focus](https://img.shields.io/badge/Focus-Cloud%20Governance-blue?style=flat-square)
+> **"Enforcing Structural Integrity and Governance in Cloud Infrastructure"**
 * **Description:** Provisioned and configured an Azure VM and web server, focusing on secure cloud infrastructure.
 * **Impact:** Validated proficiency through hands-on deployment and created a **Standard Operating Procedure (SOP)** for the process.
 * 👉 **[View Project SOP](https://scribehow.com/shared/Creating_a_Virtual_Machine_in_Azure_Portal__fYuQoaltQpCPlWh0tOfCaw)** | **[View Repository](https://github.com/SpadaSchiavonesca/azure-vm-deployment/blob/main/README.md)**
