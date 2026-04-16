@@ -24,9 +24,10 @@ Leveraging a decade of operational risk management and systems analysis to secur
 ## 🔥 Key Focus Areas
 * **Governance, Risk & Compliance (GRC):** NIST 800-53, HIPAA, and ISO 27001 control implementation.
 * **IT Risk & Audit Readiness:** Internal/External audit support and control mapping.
-* **Cloud Security Governance:** Risk assessment and governance for **AWS, OCI, and GCP**.
+* **Cloud Security Governance:** Risk assessment and governance for **AWS, OCI, GCP, & Hetzner**.
 * **Secure AI Implementation:** Specialized focus on **Local LLM governance** and privacy-first security workflows.
 * **Policy & Documentation:** Development of data privacy policies, PII protection standards, and SOPs.
+* **Edge Security & Performance:** Implementing Cloudflare WAF rules, custom Page Rules for caching optimization, and SSL/TLS management to protect public-facing assets.
 
 ---
 
