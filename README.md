@@ -46,8 +46,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 <a href="https://www.tcpdump.org/" target="_blank"><img src="https://img.shields.io/badge/tcpdump-C70039?style=for-the-badge&logo=gnu&logoColor=white" alt="tcpdump"></a>
 <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"></a>
-<a href="https://openlitespeed.org/" target="_blank">
-<a href="https://openlitespeed.org/" target="_blank"><img src="https://img.shields.io/badge/OpenLiteSpeed_WAF-1BC0C0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZEQjkxMyIgZD0iTTEzLjIgMEwyLjQgMTMuMmg4LjRsLTEuMiAxMC44TDIxLjYgOS42aC04LjR6Ii8+PC9zdmc+" alt="OpenLiteSpeed"></a>
+<a href="https://openlitespeed.org/" target="_blank"><img src="https://img.shields.io/badge/OpenLiteSpeed_WAF-1BC0C0?style=for-the-badge&logo=amp&logoColor=white" alt="OpenLiteSpeed"></a>
 <a href="https://www.fail2ban.org/" target="_blank"><img src="https://img.shields.io/badge/Fail2ban_IPS-921515?style=for-the-badge&logo=linux&logoColor=white" alt="Fail2ban"></a>
 <a href="https://launchpad.net/ufw" target="_blank"><img src="https://img.shields.io/badge/UFW_Firewall-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="UFW Firewall"></a>
 
