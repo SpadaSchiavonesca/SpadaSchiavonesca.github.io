@@ -111,16 +111,22 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ### 🚀 Projects
 
-#### **Hardened CMS Infrastructure & Multi-Layered Perimeter Defense**
-![Focus](https://img.shields.io/badge/Focus-Infrastructure%20Hardening-blue?style=flat-square)
-> **"Securing Public-Facing Assets through Defense-in-Depth"**
-* **The Goal:** Deploy a high-performance WordPress environment on a **Hetzner VPS** using a "Defense-in-Depth" architecture to satisfy strict availability and integrity requirements.
-* **The Stack:** Hardened **Ubuntu Pro** (LTS security patching), **OpenLiteSpeed** with Native WAF, and **Fail2ban** for automated threat mitigation.
+**AI-Governed CMS Infrastructure & Multi-Layered Perimeter Defense**
+
+![Focus](https://img.shields.io/badge/Focus-AI_Security_%26_Infrastructure-007ec6?style=flat-square)
+
+> "Securing Public-Facing Assets through Defense-in-Depth & Autonomous Threat Analysis"
+
+* **The Goal:** Deploy a high-performance, self-monitoring WordPress environment on a **Hetzner VPS**, utilizing a "Defense-in-Depth" architecture and LLM-driven forensic analysis to satisfy strict availability and zero-trust integrity requirements.
+* **The Stack:** Hardened **Ubuntu Pro** (LTS security patching), **OpenLiteSpeed** with Native WAF, **CrowdSec** (Global Threat Intelligence), **Python 3**, and the **Google Gemini API**.
 * **Security Controls implemented:**
-    * **Edge Governance:** Developed extensive **Cloudflare WAF** custom rules to enforce geo-fencing, mitigate Layer 7 bot attacks, and protect administrative endpoints.
-    * **Host-Based Access Control:** Implemented a **"Default-Deny" firewall policy via UFW**, strictly limiting ingress traffic to essential ports and securing SSH via key-based authentication.
-    * **Intrusion Prevention:** Configured **Fail2ban** jails to monitor system logs and automatically null-route malicious actors at the network layer.
-    * **Vulnerability Management:** Leveraged **Ubuntu Pro** to ensure continuous kernel livepatching and compliance with long-term security maintenance standards.
+  * **Edge Governance & Traffic Shaping:** Developed extensive **Cloudflare WAF** custom rules to enforce geo-fencing, mitigate Layer 7 bot attacks, and protect administrative endpoints before traffic reaches the origin server.
+  * **Active Host-Based Access Control:** Implemented a **"Default-Deny"** firewall policy via **UFW**, securing SSH via key-based authentication. Replaced legacy Fail2ban with **CrowdSec**, leveraging a real-time, peer-to-peer threat intelligence network to automatically null-route malicious actors at the network layer.
+  * **Cryptographic File Integrity Monitoring (FIM):** Engineered **SentinelNode**, a custom Python daemon operating in an isolated virtual environment. Running via automated cron jobs, it actively verifies the cryptographic hashes (SHA-256) of immutable core CMS files against a strict local baseline.
+  * **Autonomous AI Forensics:** Integrated the **Google Gemini API** directly into the SentinelNode pipeline. Upon detecting a hash mismatch, the system automatically extracts the tampered code and utilizes an LLM to perform real-time forensic analysis (identifying obfuscated backdoors, RCE templates, etc.) without relying on traditional, easily-bypassed malware signatures.
+  * **Real-Time SecOps Alerting:** Engineered a customized **Telegram** bot integration to instantly push critical alerts and the AI-generated forensic reports directly to mobile devices, preventing alert fatigue while ensuring zero-latency awareness of active breaches.
+ 
+---
 
 #### **Offline AI Security Workstation**
 ![Focus](https://img.shields.io/badge/Focus-AI%20Governance%20%26%20Privacy-blueviolet?style=flat-square)
