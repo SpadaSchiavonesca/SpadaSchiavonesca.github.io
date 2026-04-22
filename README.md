@@ -115,16 +115,17 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 ![Focus](https://img.shields.io/badge/Focus-AI_Security_%26_Infrastructure-007ec6?style=flat-square)
 
-> "Securing Public-Facing Assets through Defense-in-Depth & Autonomous Threat Analysis"
+> "Implementing Governed Cognition to secure public-facing assets through Defense-in-Depth and Autonomous Threat Analysis"
 
-* **The Goal:** Deploy a high-performance, self-monitoring WordPress environment on a **Hetzner VPS**, utilizing a "Defense-in-Depth" architecture and LLM-driven forensic analysis to satisfy strict availability and zero-trust integrity requirements.
+* **The Goal:** Deploy a high-performance, self-monitoring WordPress environment on a **Hetzner VPS**, utilizing a "Defense-in-Depth" architecture and the **Governed Cognition** framework to satisfy strict availability and zero-trust integrity requirements.
 * **The Stack:** Hardened **Ubuntu Pro** (LTS security patching), **OpenLiteSpeed** with Native WAF, **CrowdSec** (Global Threat Intelligence), **Python 3**, and the **Google Gemini API**.
 * **Security Controls implemented:**
   * **Edge Governance & Traffic Shaping:** Developed extensive **Cloudflare WAF** custom rules to enforce geo-fencing, mitigate Layer 7 bot attacks, and protect administrative endpoints before traffic reaches the origin server.
   * **Active Host-Based Access Control:** Implemented a **"Default-Deny"** firewall policy via **UFW**, securing SSH via key-based authentication. Replaced legacy Fail2ban with **CrowdSec**, leveraging a real-time, peer-to-peer threat intelligence network to automatically null-route malicious actors at the network layer.
   * **Cryptographic File Integrity Monitoring (FIM):** Engineered **SentinelNode**, a custom Python daemon operating in an isolated virtual environment. Running via automated cron jobs, it actively verifies the cryptographic hashes (SHA-256) of immutable core CMS files against a strict local baseline.
-  * **Autonomous AI Forensics:** Integrated the **Google Gemini API** directly into the SentinelNode pipeline. Upon detecting a hash mismatch, the system automatically extracts the tampered code and utilizes an LLM to perform real-time forensic analysis (identifying obfuscated backdoors, RCE templates, etc.) without relying on traditional, easily-bypassed malware signatures.
-  * **Real-Time SecOps Alerting:** Engineered a customized **Telegram** bot integration to instantly push critical alerts and the AI-generated forensic reports directly to mobile devices, preventing alert fatigue while ensuring zero-latency awareness of active breaches.
+  * **Autonomous AI Forensics (The Alethic Framework):** Integrated the **Google Gemini API** directly into the SentinelNode pipeline. Utilizing the Alethic principles of Governed Cognition, the LLM acts as a reasoning engine bound by strict architectural "Laws" to perform real-time forensic analysis of obfuscated zero-day payloads without relying on traditional malware signatures.
+  * **Automated Remediation (Hard & Soft Healing):** Engineered tiered recovery protocols. "Hard Healing" instantly rolls back immutable core files to a pristine state upon breach detection. The system roadmap includes "Soft Healing" for dynamic assets, granting the AI governed write-access to surgically excise injected backdoors while preserving legitimate developer updates.
+  * **Real-Time SecOps Alerting:** Engineered a customized **Telegram** bot integration to instantly push critical alerts and AI-generated forensic reports directly to mobile devices, preventing alert fatigue while ensuring zero-latency awareness.
  
 ---
 
