@@ -91,7 +91,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 <a href="https://www.microsoft.com/en-us/ai/responsible-ai" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Gen_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Gen AI"></a>
 <a href="https://www.onetrust.com/solutions/ai-governance/" target="_blank"><img src="https://img.shields.io/badge/OneTrust_AI-00A550?style=for-the-badge&logo=onetrust&logoColor=white" alt="OneTrust AI"></a>
 <a href="https://www.apisec.ai/" target="_blank"><img src="https://img.shields.io/badge/APIsec-2B3A42?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="APIsec"></a>
-<a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"></a>
+<a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"></a>
 
 ---
 
