@@ -49,6 +49,8 @@ Leveraging a decade of operational risk management and systems analysis to secur
 <a href="https://openlitespeed.org/" target="_blank"><img src="https://img.shields.io/badge/OpenLiteSpeed_WAF-1BC0C0?style=for-the-badge&logo=amp&logoColor=white" alt="OpenLiteSpeed"></a>
 <a href="https://www.fail2ban.org/" target="_blank"><img src="https://img.shields.io/badge/Fail2ban_IPS-921515?style=for-the-badge&logo=linux&logoColor=white" alt="Fail2ban"></a>
 <a href="https://launchpad.net/ufw" target="_blank"><img src="https://img.shields.io/badge/UFW_Firewall-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="UFW Firewall"></a>
+<a href="https://www.crowdsec.net/" target="_blank"><img src="https://img.shields.io/badge/CrowdSec_IPS-1A1A1A?style=for-the-badge&logo=crowdsecurity&logoColor=white" alt="CrowdSec"></a>
+<a href="https://letsencrypt.org/" target="_blank"><img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Let's Encrypt"></a>
 
 ### 🔐 Endpoint Security & Privacy
 
@@ -77,6 +79,7 @@ Leveraging a decade of operational risk management and systems analysis to secur
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57" alt="Python"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
 
 ---
 
@@ -88,6 +91,15 @@ Leveraging a decade of operational risk management and systems analysis to secur
 <a href="https://www.microsoft.com/en-us/ai/responsible-ai" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Gen_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Gen AI"></a>
 <a href="https://www.onetrust.com/solutions/ai-governance/" target="_blank"><img src="https://img.shields.io/badge/OneTrust_AI-00A550?style=for-the-badge&logo=onetrust&logoColor=white" alt="OneTrust AI"></a>
 <a href="https://www.apisec.ai/" target="_blank"><img src="https://img.shields.io/badge/APIsec-2B3A42?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="APIsec"></a>
+<a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"></a>
+
+---
+
+### 🐳 Containerization & SecOps Alerts
+
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+<a href="https://matrix.org/" target="_blank"><img src="https://img.shields.io/badge/Matrix_Mesh-000000?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix"></a>
+<a href="https://element.io/" target="_blank"><img src="https://img.shields.io/badge/Element_E2E-0DBD8B?style=for-the-badge&logo=element&logoColor=white" alt="Element"></a>
 
 ---
 
