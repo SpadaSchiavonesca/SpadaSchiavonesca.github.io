@@ -92,9 +92,9 @@ Leveraging a decade of operational risk management and systems analysis to secur
 <a href="https://www.onetrust.com/solutions/ai-governance/" target="_blank"><img src="https://img.shields.io/badge/OneTrust_AI-00A550?style=for-the-badge&logo=onetrust&logoColor=white" alt="OneTrust AI"></a>
 <a href="https://www.apisec.ai/" target="_blank"><img src="https://img.shields.io/badge/APIsec-2B3A42?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="APIsec"></a>
 <a href="https://deepmind.google/technologies/gemini/" target="_blank"><img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"></a>
-<a href="https://github.com/opencode-ai" target="_blank"><img src="https://img.shields.io/badge/OpenCode-0052FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="OpenCode"></a>
+<a href="https://opencode.ai/" target="_blank"><img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="OpenCode"></a>
 <a href="https://openrouter.ai/" target="_blank"><img src="https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=fastapi&logoColor=white" alt="OpenRouter"></a>
-<a href="https://github.com/NousResearch/Hermes-Function-Calling" target="_blank"><img src="https://img.shields.io/badge/Hermes_Agent-D97706?style=for-the-badge&logo=gnubash&logoColor=white" alt="Hermes Agent"></a>>
+<a href="https://hermes-agent.nousresearch.com/" target="_blank"><img src="https://img.shields.io/badge/Hermes_Agent-D97706?style=for-the-badge&logo=gnubash&logoColor=white" alt="Hermes Agent"></a>
 
 ---
 
